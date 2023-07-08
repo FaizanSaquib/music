@@ -1,0 +1,9 @@
+.banner{
+    height: 50vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    backdrop-filter:inherit;
+    width: 100vw;
+    position: relative;
+}
